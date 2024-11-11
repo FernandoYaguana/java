@@ -69,3 +69,7 @@ If you want to contribute to this project, please follow these instructions:
 4. Push to your branch (git push origin feature/new-feature).
    
 5. Create a pull request.
+
+---
+
+Thank you for contributing to this task list project! If you have any questions, please feel free to open an issue in the repository.
