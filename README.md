@@ -2,6 +2,8 @@
 
 Application in Java Web with the Hello World
 
+> To view this project in your browser you can click [here](https://java-production-8aa3.up.railway.app/).
+
 ## Technologies used
 
 - Java Web
