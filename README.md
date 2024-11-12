@@ -1,6 +1,6 @@
 # Java Web Application
 
-Application in Java Web with the Hello World
+Java application that displays the message "Hello World"
 
 > To view this project in your browser you can click [here](https://java-production-8aa3.up.railway.app/).
 
