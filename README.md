@@ -2,7 +2,7 @@
 
 This is a sample Java Web Project that displays a simple "Hello World" message in a view.
 
-> To view this project in your browser you can click [here](https://java-production-8aa3.up.railway.app/).
+> To view this project in your browser you can click [here](https://java-production-0fa3.up.railway.app/).
 
 ## Technologies used
 
